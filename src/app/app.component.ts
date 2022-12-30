@@ -61,6 +61,7 @@ export class AppComponent{
     }
     
    }
+   // printing the stars
   {
     let i=6;
     let multi = 1;

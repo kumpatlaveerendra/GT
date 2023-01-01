@@ -84,22 +84,15 @@ export class AppComponent{
     }
     console.log(sum);
   }
-    
+    {
+ let i=-1;
+    let sum = 0;
+    while(i<=-10){
+      sum+=i;
+      i++;
 
-  
-{
-  // SUM OF ODD NUMBER ONE TO  TEN
- // var i , sum =0;
- // for(i=1; i<=10;i*2){
-   // sum = sum+1;
-  //}
-  //console.log(sum);
-}
-{
-  // su of  even numbers
-  //var i , sum =0;
- // for(i=1; i<=10;i*3){
-  //  sum = sum+1;
-  //}
-  //console.log(sum);
-}
+    }
+    console.log(i);
+    }
+
+ 

@@ -12,7 +12,7 @@ export class AppComponent{
   constructor(){
     console.log();
    //console.log(this.(4,5,6,"add"));
-  
+
   let value = "-";
   switch (value) {
     case "+":
@@ -33,7 +33,7 @@ export class AppComponent{
       
   }   
    } 
-    
+   // new project// 
   }
   {
     var a = 10;
